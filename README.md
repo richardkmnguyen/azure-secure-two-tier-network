@@ -1,4 +1,4 @@
-Watch me explain this lab: [LoomLink](ADD-LOOM-LINK-AFTER-RECORDING)
+Watch me explain this lab: [LoomLink](https://www.loom.com/share/baa80df7701747efaceebdf1d4528f47)
 
 # azure-secure-two-tier-network
 
